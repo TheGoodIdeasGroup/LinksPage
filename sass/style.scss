@@ -22,6 +22,9 @@
 
 $purple: #5f2760;
 
+::selection {
+  color: transparent;
+}
 * {
   padding: 0;
   margin: 0;
